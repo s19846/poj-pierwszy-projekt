@@ -1,3 +1,5 @@
+package myLessCoolPackage;
+
 public class JakasInnaKlasa {
     public static void main(String[] args)
     {
